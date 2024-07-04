@@ -1,1 +1,1 @@
-# Online-Course-Registration-System
+# Course-Registration-Prj
